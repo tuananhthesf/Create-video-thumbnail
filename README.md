@@ -14,5 +14,6 @@ How to use:
 2. Add some video to "raw" folder
 3. Run project
 4. Click on ImageView
+5. Your thumbnail will be save in /sdcard/Pictures/SimpleVideoThumbnail/
 
 That's all! Have fun xD
