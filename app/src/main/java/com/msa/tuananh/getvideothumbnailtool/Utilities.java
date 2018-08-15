@@ -40,7 +40,7 @@ public class Utilities {
         FileOutputStream outStream = null;
         Bitmap bitmap = screenShot(view);
         try {
-            File f = new File("/sdcard/Pictures/TuanAnhDepTrai/");
+            File f = new File("/sdcard/Pictures/SimpleVideoThumbnail/");
             f.mkdirs();
 
             String fileName = String.format("%s.PNG", name);
